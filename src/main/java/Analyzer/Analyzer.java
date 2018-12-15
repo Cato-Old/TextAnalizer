@@ -1,1 +1,1 @@
-package Analyzer;public interface Analyzer<T> {    T analyze(String text);    String analyzeWithFormattedOutput(String text);}
+package Analyzer;public interface Analyzer<T> {    T analyze(String text);    String analyzeWithFormattedOutput(String text);}
