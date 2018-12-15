@@ -1,0 +1,1 @@
+package LanguageDetector;import java.util.Map;public interface LanguageDetector {    String detect(Map<Character,Double> charsMap);}
