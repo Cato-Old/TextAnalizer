@@ -1,1 +1,1 @@
-public class Main {    public static void main(String[] args) {        MultiAnalizer.callAnalyzers(args[0]);    }}
+import picocli.CommandLine;import java.io.IOException;public class Main {    public static void main(String[] args) {        CLIApp cla = new CLIApp();        new CommandLine(cla).parse(args);        try{            cla.run();        } catch (IOException e){            System.out.println("Wrong path!");        }    }}
