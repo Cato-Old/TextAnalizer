@@ -1,1 +1,1 @@
-plugins {    id 'java'}version '0.0.1'sourceCompatibility = 1.8repositories {    mavenCentral()}dependencies {    testCompile group: 'junit', name: 'junit', version: '4.12'}
+plugins {    id 'java'}version '0.0.1'sourceCompatibility = 1.8repositories {    mavenCentral()}jar {    manifest {        attributes "Main-Class": "Main"    }    from {        configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }    }}dependencies {    testCompile group: 'junit', name: 'junit', version: '4.12'}

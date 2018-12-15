@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1154e21-6784-42e1-b1af-b351b4130f6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Analyzer/Analyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Analyzer/Analyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Analyzer/CharFrequencyAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Analyzer/CharFrequencyAnalyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Analyzer/LongestSingleWordsAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Analyzer/LongestSingleWordsAnalyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Analyzer/MostFrequentWordsAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Analyzer/MostFrequentWordsAnalyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Analyzer/NumberOfWordsAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Analyzer/NumberOfWordsAnalyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MultiAnalizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MultiAnalizer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Analyzer/LongestSingleWordsAnalyzerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Analyzer/LongestSingleWordsAnalyzerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Analyzer/MostFrequentWordsAnalyzerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Analyzer/MostFrequentWordsAnalyzerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Analyzer/NumberOfWordsAnalyzerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Analyzer/NumberOfWordsAnalyzerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -77,26 +72,28 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="1" />
-          <entry key="java" value="22" />
+          <entry key="java" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="22" />
+          <entry key="JAVA" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="16" />
-          <entry key="java" value="4615" />
-          <entry key="txt" value="194" />
+          <entry key="gradle" value="2" />
+          <entry key="java" value="4634" />
+          <entry key="txt" value="228" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4615" />
-          <entry key="PLAIN_TEXT" value="210" />
+          <entry key="Groovy" value="2" />
+          <entry key="JAVA" value="4634" />
+          <entry key="PLAIN_TEXT" value="244" />
         </counts>
       </usages-collector>
     </session>
@@ -118,11 +115,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state>
               <folding>
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#64#65#0" expanded="true" />
+                <element signature="e#116#117#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -132,7 +128,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Analyzer/MostFrequentWordsAnalyzer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
-              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -165,22 +161,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Analyzer/NumberOfWordsAnalyzerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="340">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -198,7 +182,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Analyzer/CharFrequencyAnalyzer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="401">
-              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -210,7 +194,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/MultiAnalizer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -409,9 +393,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6177089473279" />
+        <entry key="$PROJECT_DIR$" value="6177749252089" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="2653488787" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="503151342" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2585518924" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="127218815" />
       </map>
@@ -611,13 +595,15 @@
         <option value="$PROJECT_DIR$/src/test/java/Analyzer/MostFrequentWordsAnalyzerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/Analyzer/LongestSingleWordsAnalyzerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/Analyzer/NumberOfWordsAnalyzerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/Analyzer/Analyzer.java" />
         <option value="$PROJECT_DIR$/src/main/java/Analyzer/CharFrequencyAnalyzer.java" />
         <option value="$PROJECT_DIR$/src/main/java/Analyzer/LongestSingleWordsAnalyzer.java" />
         <option value="$PROJECT_DIR$/src/main/java/Analyzer/MostFrequentWordsAnalyzer.java" />
         <option value="$PROJECT_DIR$/src/main/java/Analyzer/NumberOfWordsAnalyzer.java" />
         <option value="$PROJECT_DIR$/src/main/java/MultiAnalizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CLIApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -663,14 +649,6 @@
               <item name="TextAnalizer" type="b2602c69:ProjectViewProjectNode" />
               <item name="TextAnalizer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Analyzer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TextAnalizer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TextAnalizer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -696,7 +674,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544863718823" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544864591047" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RunDashboard">
@@ -711,13 +689,31 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Gradle.TextAnalizer [jar]">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="TextAnalizer_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="TextAnalizer [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method v="2" />
     </configuration>
     <configuration name="Analyzer in TextAnalizer_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TextAnalizer_test" />
@@ -747,20 +743,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSingleWordsAnalyzerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TextAnalizer_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Analyzer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Analyzer" />
-      <option name="MAIN_CLASS_NAME" value="Analyzer.LongestSingleWordsAnalyzerTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LongestSingleWordsAnalyzerTest.analyzeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TextAnalizer_test" />
       <extension name="coverage">
@@ -779,18 +761,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.CharFrequencyAnalyzerTest" />
-      <item itemvalue="JUnit.LongestSingleWordsAnalyzerTest" />
       <item itemvalue="JUnit.LongestSingleWordsAnalyzerTest.analyzeTest" />
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.Analyzer in TextAnalizer_test" />
+      <item itemvalue="Gradle.TextAnalizer [jar]" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.TextAnalizer [jar]" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.Analyzer in TextAnalizer_test" />
         <item itemvalue="JUnit.CharFrequencyAnalyzerTest" />
         <item itemvalue="JUnit.LongestSingleWordsAnalyzerTest.analyzeTest" />
-        <item itemvalue="JUnit.LongestSingleWordsAnalyzerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -833,7 +815,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544364109776</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="implementing MultiAnalyzer class">
+      <created>1544863827137</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1544863827137</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -870,7 +859,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19664429" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -881,12 +869,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32885906" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32885906" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32885906" />
@@ -939,7 +927,8 @@
     <MESSAGE value="adding tests for WordMap class" />
     <MESSAGE value="new structure of project and adding CharFrequencyAnalyzer" />
     <MESSAGE value="adding all remaining test and implements CharFrequencyAnalyzer" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding all remaining test and implements CharFrequencyAnalyzer" />
+    <MESSAGE value="implementing MultiAnalyzer class" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementing MultiAnalyzer class" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/WordMapTest.java" />
@@ -968,10 +957,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Analyzer/NumberOfWordsAnalyzerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -985,27 +977,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Analyzer/NumberOfWordsAnalyzerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Analyzer/MostFrequentWordsAnalyzer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Analyzer/Analyzer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Analyzer/CharFrequencyAnalyzer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="418">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1022,13 +997,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Analyzer/MostFrequentWordsAnalyzer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Analyzer/CharFrequencyAnalyzer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        <state relative-caret-position="401">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Analyzer/Analyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -1042,23 +1024,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CLIApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MultiAnalizer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state>
           <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
           </folding>
         </state>
       </provider>
